@@ -11,4 +11,6 @@
       description="Hello {/recipient/name}"
       valueLiveUpdate="true"
       width="60%"/>
+
+    <!-- push test -->
 </mvc:View>
